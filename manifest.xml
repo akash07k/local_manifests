@@ -3,6 +3,8 @@
 
   <remote  name="gitlab" fetch="https://gitlab.com" />
 
+ <project path="hardware/xiaomi" name="LineageOS/android_hardware_xiaomi" remote="github" revision="lineage-20" />
+
  <project path="device/xiaomi/munch" name="akash07k/device_xiaomi_munch" remote="github" revision="crDroid" />
  <project path="device/xiaomi/sm8250-common" name="akash07k/device_xiaomi_sm8250-common" remote="github" revision="crDroid" />
  <project path="kernel/xiaomi/sm8250" name="UtsavBalar1231/kernel_xiaomi_sm8250" remote="github" revision="android12-next" />
