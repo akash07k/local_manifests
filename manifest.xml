@@ -4,8 +4,8 @@
  <project path="device/xiaomi/munch" name="akash07k/device_xiaomi_munch" remote="github" revision="EvolutionX" />
  <project path="device/xiaomi/sm8250-common" name="akash07k/device_xiaomi_sm8250-common" remote="github" revision="EvolutionX" />
  <project path="kernel/xiaomi/sm8250" name="UtsavBalar1231/kernel_xiaomi_sm8250" remote="github" revision="android12-next" />
- <project path="vendor/xiaomi/munch" name="akash07k/vendor_xiaomi_munch" remote="gitlab" revision="EvolutionX" />
- <project path="vendor/xiaomi/sm8250-common" name="akash07k/vendor_xiaomi_sm8250-common" remote="gitlab" revision="EvolutionX" />
+ <project path="vendor/xiaomi/munch" name="madmax7896/android_vendor_xiaomi_munch" remote="gitlab" revision="EvolutionX" />
+ <project path="vendor/xiaomi" name="madmax7896/proprietary_vendor_xiaomi" remote="gitlab" revision="EvolutionX" />
  <project path="vendor/xiaomi/munch-firmware" name="Ar5646L/vendor_xiaomi_munch-firmware" remote="gitlab" revision="twelve" />
 
 </manifest>
