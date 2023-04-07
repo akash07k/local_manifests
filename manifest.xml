@@ -30,5 +30,7 @@
     revision="13.0" />
   <project path="prebuilts/clang/host/linux-x86/clang-trb" name="varunhardgamer/trb_clang"
     remote="gitlab" revision="17" />
+      <project path="prebuilts/clang/host/linux-x86/clang-aosp-17" name="NotZeetaa/aosp-clang-17.0.0"
+    remote="gitlab" revision="master" />
 
 </manifest>
